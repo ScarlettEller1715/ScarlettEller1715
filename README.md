@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **scarlettellerny@gmail.com**
 
-- ⚡ Fun fact **I spent the pandemic writing an 80,000 horror manuscript.**
+- ⚡ Fun fact **I spent the pandemic writing an 80,000 word horror manuscript.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
