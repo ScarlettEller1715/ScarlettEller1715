@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, I'm Scarlett Eller</h1>
+<h1 align="center">Hello! 👋, I'm Scarlett Eller</h1>
 <h3 align="center">I'm a Software Developer Currently Looking for Employment Opportunities</h3>
 
 - 🔭 I’m currently working on [Antoinette - A Wardrobe Organizing Application](https://github.com/ScarlettEller1715/Antoinette-Wardrobe-App)
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, JavaScript, Ruby on Rails, SQL, Flexbox CSS**
 
-- 📫 How to reach me **scarlettellerny@gmail.com**
+- 📫 Contact me at **scarlettellerny@gmail.com**
 
 - ⚡ Fun fact **I spent the pandemic writing an 80,000 word horror manuscript.**
 
