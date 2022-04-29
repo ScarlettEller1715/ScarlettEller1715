@@ -1,5 +1,5 @@
-<h1 align="center">Hello! ☕ I'm Scarlett Eller</h1>
-<h3 align="center">I'm a Software Developer on the Lookout for New Opportunities</h3>
+<h1 align="center">Bonjour! ☕ I'm Scarlett Eller</h1>
+<h3 align="center">I'm a Software Developer on the lookout for new opportunities!</h3>
 
 - 🔭 I’m currently working on [Ghostd - A Dating App for Ghosts](https://github.com/ScarlettEller1715/ghostd)
 
