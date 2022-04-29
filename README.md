@@ -1,7 +1,7 @@
-<h1 align="center">Hello! 👋, I'm Scarlett Eller</h1>
-<h3 align="center">I'm a Software Developer Currently Looking for Employment Opportunities</h3>
+<h1 align="center">Hello! ☕ I'm Scarlett Eller</h1>
+<h3 align="center">I'm a Software Developer on the Lookout for New Opportunities</h3>
 
-- 🔭 I’m currently working on [Antoinette - A Wardrobe Organizing Application](https://github.com/ScarlettEller1715/Antoinette-Wardrobe-App)
+- 🔭 I’m currently working on [Ghostd - A Dating App for Ghosts](https://github.com/ScarlettEller1715/ghostd)
 
 - 🌱 I’m currently learning **Node.js**
 
