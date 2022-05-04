@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, JavaScript, Ruby on Rails, SQL, Flexbox CSS**
 
-- 📫 Contact me at **scarlettellerny@gmail.com**
+- 💌 Contact me at **scarlettellerny@gmail.com**
 
 - ⚡ Fun fact **I spent the pandemic writing an 80,000 word horror manuscript.**
 
