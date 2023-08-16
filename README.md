@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Ghostd - A Dating App for Ghosts](https://github.com/ScarlettEller1715/ghostd)
 
-- 🌱 I’m currently learning **Node.js**
-
 - 📝 I regularly write articles on [https://medium.com/@MlleScarlettE](https://medium.com/@MlleScarlettE)
 
 - 💬 Ask me about **React.js, JavaScript, Ruby on Rails, SQL, Flexbox CSS**
